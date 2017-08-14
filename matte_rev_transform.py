@@ -53,14 +53,11 @@ def matte_calc(res = [1920, 1080], s0 = 100):
     else:
         tile_calc()
 
-welcome_string = "\
-\n**********************************************\
-\n  Welcome! Enter your clip settings and I\
-\n  will return the matte settings you require.\
-\n**********************************************"
-
 def main():
-    print(welcome_string)
+    print("\n**********************************************")
+    print("  Welcome! Enter your clip settings and I")
+    print("  will return the matte settings you require.")
+    print("**********************************************")
     matte_calc()
     
 if __name__ == '__main__':
