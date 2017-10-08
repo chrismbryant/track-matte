@@ -16,4 +16,14 @@ separately from the matte layer by calculating the appropriate values
 that must be entered into the matte layer settings in Premiere to 
 *reverse* this transformation.
 
-Example application in video: https://youtu.be/PPQKYd4IDws
+Track mattes in action: https://youtu.be/PPQKYd4IDws
+
+### e.g. Tiling layout:
+![template]
+
+### Videos positioned according to tiling layout:
+![thumbnail]
+
+[template]: https://raw.githubusercontent.com/chrismbryant/track-matte/master/Example%20Tiling%20Template/Give%20Us%20This%20Day%20(Tiling%20Template).jpg
+
+[thumbnail]: https://raw.githubusercontent.com/chrismbryant/track-matte/master/Example%20Tiling%20Template/thumbnail_01.png
