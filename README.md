@@ -15,3 +15,5 @@ The matte_rev_transform.py script lets you transform the fill layer
 separately from the matte layer by calculating the appropriate values
 that must be entered into the matte layer settings in Premiere to 
 *reverse* this transformation.
+
+Example application in video: https://youtu.be/PPQKYd4IDws
